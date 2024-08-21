@@ -9,6 +9,7 @@
 
 ![Estadísticas MelDev](https://github-readme-stats.vercel.app/api?username=stephaniemelisav&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stephaniemelisav&theme=radical&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
