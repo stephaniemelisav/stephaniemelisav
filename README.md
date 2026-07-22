@@ -4,7 +4,7 @@
     <h1 align="center">Hola! Soy Steph 🌷</h1>
     <h3 align="center">👩🏻‍💻Desarrolladora de Software</h3>
     <h3 align="center">🎨Creadora de contenido sobre computación, tecnología y productividad </h3>
-    <h3 align="center">❤️Me apasiona la programación y el arte </h3>
+    <h3 align="center">❤️Me apasiona la programación y la música con tecnologia </h3>
 </div>
 
 ![Estadísticas MelDev](https://github-readme-stats.vercel.app/api?username=stephaniemelisav&count_private=true&show_icons=true&theme=radical&hide_rank=false)
