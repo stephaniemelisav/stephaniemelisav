@@ -3,7 +3,6 @@
     <img src="https://64.media.tumblr.com/38b1724765eadf9335bebcbb749584c8/f88674de97e340e8-a9/s2549x1823/8bd592a3b4e72f99a15d9eff9a395b8120e6984a.gif" width="250"/>
     <h1 align="center">Hola! Soy Steph 🌷</h1>
     <h3 align="center">👩🏻‍💻Desarrolladora de Software</h3>
-    <h3 align="center">🎨Creadora de contenido sobre computación, tecnología y productividad </h3>
     <h3 align="center">❤️Me apasiona la programación y la música con tecnologia </h3>
 </div>
 
